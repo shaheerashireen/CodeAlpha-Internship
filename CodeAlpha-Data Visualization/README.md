@@ -1,4 +1,4 @@
-# Task 3 – Data Visualization
+# CodeAlpha Task 3 – Data Visualization
 
 This task focuses on creating an interactive data visualization dashboard to analyze e-commerce sales and profitability.
 
